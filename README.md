@@ -47,7 +47,7 @@
   Tech Stack
   <img align="center" src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="35px" height="35px">
 </h1> 
-<p style="display: flex; flex-wrap: wrap; gap: 3px;">
+<p align="center" >
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
   </a>
