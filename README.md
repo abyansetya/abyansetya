@@ -22,7 +22,7 @@
   <li>
     <img align="center" src="https://media.giphy.com/media/QTxCEgcvorSGCSXxKE/giphy.gif" width="25px" height="25px"> 
     Take a quick look at what I just made:
-    <a href="abyansetya.netlify.app"><b>abyansetya.netlify.app</b></a>
+    <a href="abyansetya.vercel.app"><b>abyansetya.vercel.app</b></a>
   </li>
 </ul>
 
